@@ -1,0 +1,1 @@
+# hubspot-base-model
